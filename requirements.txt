@@ -1,0 +1,4 @@
+discord
+simple-youtube-api
+ytdl-core
+requests
